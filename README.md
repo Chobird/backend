@@ -39,7 +39,7 @@
 
 2. 설치
    ```bash
-   git clone https://github.com/[사용자명]/[저장소명].git
+   git clone https://github.com/Chobird/backend.git
    ```
 
 3. 배포

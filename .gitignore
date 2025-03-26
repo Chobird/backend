@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
 # Log file
+=======
+# Compiled class files
+*.class
+
+# Log files
+>>>>>>> 73eed9bf05da77fe383659e4e2e1a13cb5e611cf
 *.log
 
 # BlueJ files
@@ -10,7 +17,11 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+<<<<<<< HEAD
 # Package Files #
+=======
+# Package Files
+>>>>>>> 73eed9bf05da77fe383659e4e2e1a13cb5e611cf
 *.jar
 *.war
 *.nar
@@ -19,6 +30,7 @@
 *.tar.gz
 *.rar
 
+<<<<<<< HEAD
 # virtual machine crash logs
 hs_err_pid*
 replay_pid*
@@ -48,3 +60,20 @@ out/
 .Trashes
 ehthumbs.db
 Thumbs.db 
+=======
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Tomcat specific files
+/target/
+/webapps/
+/work/
+/logs/
+
+# Build directories
+build/
+bin/ 
+>>>>>>> 73eed9bf05da77fe383659e4e2e1a13cb5e611cf
